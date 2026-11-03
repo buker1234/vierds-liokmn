@@ -32,7 +32,7 @@ https://crimson-frost-97c6.samuelgill0316.workers.dev/">
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://drama.bojanglesmenuprices.com/thats-the-clique-thats-the-clique-/?utm_source=suny&utm_medium=suny", 302);
+    return Response.redirect("https://drama.bojanglesmenuprices.com/thats-the-clique-thats-the-clique-😂😂/?utm_source=suny&utm_medium=suny", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
